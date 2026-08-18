@@ -1,7 +1,16 @@
-# Marketing
+# OTHERCODE-LANDING
 
-Owned backstop + first public pages for OTH=RCODE.
+OTH=RCOD= studio landing page + assets.
 
-- `landing-page.html` — Formspree waitlist (`formspree.io/f/xaybqkzn`)
-- `thanks.html` — post-submit confirmation + Buttondown redirect
-- `MARKETING_PLAYBOOK.md` — studio marketing operating rules
+## Contents
+
+- `landing-page.html` — Main studio landing with project cards
+- `assets/` — SVG logos, project art, dark/light variants
+- `bookmuse-landing.html` — BookMuse-specific landing
+- `thanks.html` / `bookmuse-thanks.html` — Form submission confirmations
+- `_redirects` — Netlify routing rules
+- `netlify/functions/subscribe.js` — Buttondown subscription handler
+
+## Deploy
+
+Netlify auto-deploys from `main`. Root URL: https://othercode.dev
