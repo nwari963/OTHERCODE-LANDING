@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" aria-labelledby="studio-tales-logo-title">
+  <title id="studio-tales-logo-title">STUDIO-TALES story certificate mark</title>
+  <circle cx="50" cy="46" r="30" fill="none" stroke="#1a1712" stroke-width="5"/>
+  <path d="M35 38c0-7 6-11 15-11s15 4 15 10c0 15-30 5-30 20 0 7 6 11 15 11s15-4 15-11" fill="none" stroke="#1a1712" stroke-width="5" stroke-linecap="round"/>
+  <path d="M38 74l-4 16 16-9 16 9-4-16" fill="none" stroke="#1a1712" stroke-width="5" stroke-linejoin="round"/>
+</svg>

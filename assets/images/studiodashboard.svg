@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" aria-labelledby="studiodashboard-img-title">
+  <title id="studiodashboard-img-title">STUDIO-DASHBOARD instrument panel scene</title>
+  <rect width="320" height="180" fill="#12181a"/>
+  <rect x="14" y="14" width="292" height="152" rx="6" fill="none" stroke="#b5d4e6" stroke-width="2"/>
+  <line x1="14" y1="38" x2="306" y2="38" stroke="#b5d4e6" stroke-width="1.6"/>
+  <line x1="108" y1="38" x2="108" y2="166" stroke="#b5d4e6" stroke-width="1.6"/>
+  <line x1="214" y1="38" x2="214" y2="166" stroke="#b5d4e6" stroke-width="1.6"/>
+  <line x1="14" y1="102" x2="306" y2="102" stroke="#b5d4e6" stroke-width="1.6"/>
+  <rect x="24" y="56" width="72" height="32" rx="3" fill="none" stroke="#b5d4e6" stroke-width="1.2"/>
+  <rect x="124" y="56" width="72" height="32" rx="3" fill="none" stroke="#b5d4e6" stroke-width="1.2"/>
+  <rect x="230" y="56" width="64" height="32" rx="3" fill="none" stroke="#b5d4e6" stroke-width="1.2"/>
+  <rect x="24" y="118" width="72" height="32" rx="3" fill="none" stroke="#b5d4e6" stroke-width="1.2"/>
+  <rect x="124" y="118" width="72" height="32" rx="3" fill="none" stroke="#b5d4e6" stroke-width="1.2"/>
+  <rect x="230" y="118" width="64" height="32" rx="3" fill="none" stroke="#b5d4e6" stroke-width="1.2"/>
+</svg>

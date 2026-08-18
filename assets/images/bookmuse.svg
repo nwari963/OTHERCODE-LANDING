@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" aria-labelledby="bookmuse-img-title">
+  <title id="bookmuse-img-title">BookMuse library scene</title>
+  <rect width="320" height="180" fill="#12201f"/>
+  <rect x="72" y="34" width="176" height="124" rx="6" fill="none" stroke="#b5e6e6" stroke-width="2"/>
+  <line x1="72" y1="72" x2="248" y2="72" stroke="#b5e6e6" stroke-width="1.5"/>
+  <line x1="160" y1="72" x2="160" y2="158" stroke="#b5e6e6" stroke-width="1.5"/>
+  <rect x="88" y="90" width="56" height="48" rx="4" fill="none" stroke="#b5e6e6" stroke-width="1.2"/>
+  <rect x="176" y="90" width="48" height="48" rx="4" fill="none" stroke="#b5e6e6" stroke-width="1.2"/>
+  <path d="M24 48h32v6H30v28h18v6H24V48z" fill="none" stroke="#b5e6e6" stroke-width="1.4"/>
+  <path d="M264 48h32v6h-26v28h18v6h-24V48z" fill="none" stroke="#b5e6e6" stroke-width="1.4"/>
+</svg>

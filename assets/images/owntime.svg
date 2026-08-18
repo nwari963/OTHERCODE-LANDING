@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" aria-labelledby="owntime-img-title">
+  <title id="owntime-img-title">OWN TIME timeline scene</title>
+  <rect width="320" height="180" fill="#14171f"/>
+  <circle cx="160" cy="90" r="46" fill="none" stroke="#b5cbe6" stroke-width="2.2"/>
+  <line x1="160" y1="90" x2="160" y2="48" stroke="#b5cbe6" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="160" y1="90" x2="196" y2="112" stroke="#b5cbe6" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="160" cy="90" r="7" fill="#b5cbe6"/>
+  <rect x="42" y="122" width="56" height="10" rx="2" fill="none" stroke="#b5cbe6" stroke-width="1.2"/>
+  <rect x="222" y="60" width="56" height="10" rx="2" fill="none" stroke="#b5cbe6" stroke-width="1.2"/>
+</svg>

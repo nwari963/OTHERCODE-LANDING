@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" aria-labelledby="imaginaria-img-title">
+  <title id="imaginaria-img-title">IMAGINARIA emergent strata scene</title>
+  <rect width="320" height="180" fill="#1a1418"/>
+  <circle cx="120" cy="80" r="28" fill="none" stroke="#e6b5d4" stroke-width="2.2"/>
+  <circle cx="200" cy="100" r="28" fill="none" stroke="#e6b5d4" stroke-width="2.2"/>
+  <path d="M108 110q24-22 40-8t24 18" fill="none" stroke="#e6b5d4" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="120" cy="80" r="8" fill="none" stroke="#e6b5d4" stroke-width="1.6"/>
+  <circle cx="200" cy="100" r="8" fill="none" stroke="#e6b5d4" stroke-width="1.6"/>
+</svg>

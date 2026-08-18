@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" aria-labelledby="glyphwell-img-title">
+  <title id="glyphwell-img-title">Glyphwell tarot deck scene</title>
+  <rect width="320" height="180" fill="#1a1410"/>
+  <circle cx="160" cy="80" r="48" fill="none" stroke="#f0dbb5" stroke-width="2.5"/>
+  <circle cx="160" cy="80" r="28" fill="none" stroke="#f0dbb5" stroke-width="1.8"/>
+  <path d="M140 60h40v8H148v24h20v8H140V60z" fill="#f0dbb5"/>
+  <path d="M190 110l18-24 18 24H206l-4-16h-12l-4 16H190z" fill="#f0dbb5"/>
+  <path d="M112 120l16-20 16 20H126l-4-14h-8l-4 14H112z" fill="#f0dbb5"/>
+  <path d="M172 124l14-18 14 18H184l-4-12h-8l-4 12H172z" fill="#f0dbb5"/>
+  <rect x="18" y="18" width="40" height="26" rx="4" fill="none" stroke="#f0dbb5" stroke-width="1.5"/>
+  <rect x="262" y="136" width="40" height="26" rx="4" fill="none" stroke="#f0dbb5" stroke-width="1.5"/>
+</svg>

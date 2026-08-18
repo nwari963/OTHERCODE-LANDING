@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" aria-labelledby="studiotales-img-title">
+  <title id="studiotales-img-title">STUDIO-TALES story certificate scene</title>
+  <rect width="320" height="180" fill="#1f1518"/>
+  <path d="M110 140V56l100-28 100 28v84" fill="none" stroke="#e6b5c8" stroke-width="2.2" stroke-linejoin="round"/>
+  <line x1="160" y1="140" x2="160" y2="78" stroke="#e6b5c8" stroke-width="1.6"/>
+  <line x1="110" y1="56" x2="270" y2="56" stroke="#e6b5c8" stroke-width="1.6"/>
+  <rect x="126" y="34" width="128" height="18" rx="3" fill="none" stroke="#e6b5c8" stroke-width="1.4"/>
+  <rect x="126" y="96" width="88" height="12" rx="2" fill="none" stroke="#e6b5c8" stroke-width="1.2"/>
+  <rect x="126" y="114" width="64" height="10" rx="2" fill="none" stroke="#e6b5c8" stroke-width="1"/>
+</svg>

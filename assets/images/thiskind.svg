@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" width="320" height="180" aria-labelledby="thiskind-img-title">
+  <title id="thiskind-img-title">THIS KIND connection scene</title>
+  <rect width="320" height="180" fill="#16141f"/>
+  <circle cx="160" cy="86" r="10" fill="#cdb5e6"/>
+  <line x1="160" y1="76" x2="160" y2="26" stroke="#cdb5e6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="160" y1="96" x2="160" y2="156" stroke="#cdb5e6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="150" y1="86" x2="50" y2="86" stroke="#cdb5e6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="170" y1="86" x2="270" y2="86" stroke="#cdb5e6" stroke-width="2" stroke-linecap="round"/>
+  <line x1="154" y1="80" x2="74" y2="30" stroke="#cdb5e6" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="166" y1="92" x2="246" y2="142" stroke="#cdb5e6" stroke-width="1.6" stroke-linecap="round"/>
+  <circle cx="160" cy="86" r="4" fill="#1a1428"/>
+</svg>
